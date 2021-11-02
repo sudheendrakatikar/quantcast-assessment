@@ -17,6 +17,7 @@
 ## Test cases:
 
 ### Sample cookie logs-
+
 cookie,timestamp
 AtY0laUfhglK3lC7,2018-12-09T14:19:00+00:00
 SAZuXPGUrfbcn5UA,2018-12-09T10:13:00+00:00
@@ -34,7 +35,5 @@ AtY0laUfhglK3lC7
 $> java -jar activecookie-sudheendra-0.0.1-SNAPSHOT.jar S:\eclipse-workspace\activecookie-sudheendra\src\test\resources\cookie_log.csv -d 2018-12-08
 
 fbcn5UAVanZf6UtG
-
 SAZuXPGUrfbcn5UA
-
 4sMM2LxV07bPJzwf
