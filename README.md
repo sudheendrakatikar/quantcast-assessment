@@ -10,7 +10,7 @@
 ### To test and build
 
 1. Clone the repo: git clone https://github.com/sudheendrakatikar/quantcast-assessment.git
-2. mvn clean instal
+2. mvn clean install
 3. mvn test
 4. mvn package (to build the jar)
 
